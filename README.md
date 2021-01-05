@@ -1,1 +1,0 @@
-# Angle-3d-Configurator
